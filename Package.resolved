@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AECli",
+        "repositoryURL": "https://github.com/tadija/AECli.git",
+        "state": {
+          "branch": null,
+          "revision": "07b34d9f01abd15b351d7168491593506905fff4",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "AEShell",
+        "repositoryURL": "https://github.com/tadija/AEShell.git",
+        "state": {
+          "branch": null,
+          "revision": "67c49605786a7ff38d193aaf31327bd1d07de4af",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
